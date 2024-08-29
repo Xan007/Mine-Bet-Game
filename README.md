@@ -2,6 +2,12 @@
 ## Overview
 Mines-Bet-Game is a console-based betting game where you aim to uncover the most diamonds from a 5x5 grid without hitting any hidden bombs. The game is written in C++ using Object-Oriented Programming (OOP) principles, with robust user input validation to enhance the gameplay experience.
 
+Click below to view video (Spanish)
+
+
+
+[![Alt text](https://img.youtube.com/vi/sF4zApKj5kc/0.jpg)](https://www.youtube.com/watch?v=sF4zApKj5kc)
+
 ## Features
 * 5x5 Grid: The game board is a 5x5 grid where diamonds and bombs are randomly placed.
 * Betting System: Players place a bet before starting the game. The bet increases based on the number of diamonds uncovered without hitting a bomb.
